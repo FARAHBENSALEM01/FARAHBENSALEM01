@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/FARAHBENSALEM01">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=602&text=Hello!%20I'm%20FARAH" alt="Hello! I&#39;m FARAH" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F4A6C0&fontSize=54&height=90&width=602&text=Hello!%20I'm%20FARAH" alt="Hello! I&#39;m FARAH" />
   </a>
 </p>
 
